@@ -2,7 +2,7 @@
 
 A simple Java Swing application for text encryption and decryption using a Caesar cipher algorithm.
 
-# How the key works?
+## How the key works?
 
 - For encryption, each character in the input text is shifted forward in the alphabet by the key value.
 - For decryption, the characters are shifted backward by the same key value to reveal the original text.
